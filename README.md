@@ -4,10 +4,8 @@ Bootcamper at [School Of Code](https://www.schoolofcode.com/).
 
 
 ![image](https://user-images.githubusercontent.com/72506201/155804230-5d768662-2fee-4f4f-8049-50084e31da3c.png) I'm a London based Software Engineer
-* 🌱 I’m currently learning JavaScript, Node, PostgreSQL, React and Next.js
-* 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
+* ![image](https://user-images.githubusercontent.com/72506201/155805968-0dbc6714-be6c-49e8-b109-d1027273d7c5.png) I’m currently learning JavaScript, Node, PostgreSQL, React and Next.js
 * 📫 How to reach me: cbmaruziva@hotmail.co.uk
-* 😄 Pronouns: he/him
 * ⚡ Fun fact(s): I'm a gym goer and musician/producer
 
 ## Technologies
