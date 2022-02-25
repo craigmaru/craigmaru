@@ -4,7 +4,7 @@
 
 * ![image](https://user-images.githubusercontent.com/72506201/155805968-0dbc6714-be6c-49e8-b109-d1027273d7c5.png) I’m currently learning JavaScript, Node, PostgreSQL, React and Next.js
 * 📫 How to reach me: cbmaruziva@hotmail.co.uk
-* ⚡ Fun fact(s): I'm a gym goer and musician/producer
+* ⚡ Fun fact(s): I'm a gym goer and musician/producer, Listen [here](https://craigmaru.com/) 
 
 ##  Tech Stack
 #### ⚡ Languages
