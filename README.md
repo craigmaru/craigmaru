@@ -6,6 +6,9 @@
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/craigmaruziva/)
 * ⚡ Fun fact(s): I'm a gym goer and a musician/producer, you can take a listen [here](https://craigmaru.com/) 
 
+![craigmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigmaru&show_icons=true&theme=radical&count_private=true)
+
+
 ##  Tech Stack
 #### ⚡ Languages
 ![html](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -30,6 +33,8 @@
 ![cypress](https://camo.githubusercontent.com/a2cc7362377d69d8ad5147e49f7b269cab69f00509828ce2d583b9dde9130499/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d637970726573732d2532334535453545353f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d303538613565)
 
 ![postman](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
+
+
 <!--
 **craigmaru/craigmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
