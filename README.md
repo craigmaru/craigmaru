@@ -1,8 +1,8 @@
 # Hi there ![image](https://user-images.githubusercontent.com/72506201/155807695-4d5d2fc8-31e9-4ff8-998a-4193f7e40490.png)
 
-![image](https://user-images.githubusercontent.com/72506201/155804230-5d768662-2fee-4f4f-8049-50084e31da3c.png) I'm a London based Software Engineer & have just completed the [School Of Code's](https://www.schoolofcode.com/) intensive 16-week bootcamp.
+![image](https://user-images.githubusercontent.com/72506201/155804230-5d768662-2fee-4f4f-8049-50084e31da3c.png) I'm a full stack software engineer.
 
-* ![image](https://user-images.githubusercontent.com/72506201/155805968-0dbc6714-be6c-49e8-b109-d1027273d7c5.png) I’m currently learning AWS, jenkins, and Next.js
+* ![image](https://user-images.githubusercontent.com/72506201/155805968-0dbc6714-be6c-49e8-b109-d1027273d7c5.png) I’m currently learning AWS, flutter
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/craigmaruziva/)
 * ⚡ Fun fact(s): I'm a gym goer and a musician/producer, you can take a listen [here](https://craigmaru.com/) 
 
