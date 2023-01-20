@@ -4,10 +4,10 @@
 
 * ![image](https://user-images.githubusercontent.com/72506201/155805968-0dbc6714-be6c-49e8-b109-d1027273d7c5.png) I’m currently learning AWS & Flutter
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/craigmaruziva/)
-* ⚡ Fun fact(s): I'm a gym goer and a musician/producer, you can take a listen [here](https://craigmaru.com/) 
+<!-- * ⚡ Fun fact(s): I'm a gym goer and a musician/producer, you can take a listen [here](https://craigmaru.com/) 
 
 ![craigmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigmaru&show_icons=true&theme=radical&count_private=true)
-
+ -->
 
 ##  Tech Stack
 #### ⚡ Languages
